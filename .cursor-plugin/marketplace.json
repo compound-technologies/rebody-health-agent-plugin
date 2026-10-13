@@ -1,0 +1,18 @@
+{
+  "name": "rebody-health",
+  "owner": {
+    "name": "Rebody Health",
+    "email": "support@rebodyhealth.com"
+  },
+  "metadata": {
+    "description": "Rebody Health plugin that works with Grok Bot: a public MCP connector for Rebody's peptide and longevity treatments, plus skills that compare plans and get a private visit link.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rebody-health",
+      "source": "./plugins/rebody-health",
+      "description": "Compare Rebody's peptide and longevity treatments, check state availability, and get a private visit link. No account or API key."
+    }
+  ]
+}

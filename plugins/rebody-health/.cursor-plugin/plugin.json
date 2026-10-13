@@ -1,0 +1,25 @@
+{
+  "name": "rebody-health",
+  "displayName": "Rebody Health",
+  "version": "1.0.0",
+  "description": "Rebody Health's prescription peptide and longevity treatments for U.S. adults. Compare formats and plan prices, check what ships to your state, and get a private visit link where a licensed clinician decides. Works with Grok Bot. No account or API key.",
+  "author": {
+    "name": "Rebody Health",
+    "email": "support@rebodyhealth.com"
+  },
+  "homepage": "https://rebodyhealth.com/mcp",
+  "repository": "https://github.com/compound-technologies/rebody-health-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "rebody",
+    "peptides",
+    "longevity",
+    "telehealth",
+    "sermorelin",
+    "nad",
+    "glutathione",
+    "health",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

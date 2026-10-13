@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "rebody": {
+      "url": "https://rebodyhealth.com/api/mcp/grok"
+    }
+  }
+}
